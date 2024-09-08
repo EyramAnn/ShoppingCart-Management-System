@@ -1,1 +1,1 @@
-This is a group work 
+This is a group work to showcase tutorial in javacript
